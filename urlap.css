@@ -1,0 +1,28 @@
+.mentes {
+    width: 30em;  height: 2em;
+    background-color:green;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+input{
+    height: 2em;
+}
+.nev {
+border-color: hotpink;
+}
+.varos{
+    width: 16.6em;  height: 2.3em;
+}
+select{
+    height: 2em;
+}
+.cim {
+    width: 16.6em;  height: 2em;
+}
+.szam{
+    width: auto;  height: 2.3em;
+}
+.orszag {
+    width: 16.6em; height: 2.3em;
+}
